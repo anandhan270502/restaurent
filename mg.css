@@ -1,0 +1,32 @@
+
+.navbaar ul{
+    float:right;
+    list-style: none;
+}
+.navbaar li a{
+    padding: 4px;
+    text-decoration: none;
+    color:rgba(0, 0, 0, 0.733);
+    font-size: 20px;
+}
+.navbaar ul li a li{
+    display:none;
+}
+.navbaar li a:hover{
+    background-color:white;
+    
+    
+
+}
+.navbaar ul .dropdown li a{
+    font-size: 16px;
+    width:100px;
+    display:none;
+}
+.navbaar ul:hover ul.dropdown li a{
+    display:block;
+    width:100%;
+
+}
+
+

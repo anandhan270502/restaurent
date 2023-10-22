@@ -1,0 +1,15 @@
+.card{
+    border: 0.1rem solid rgba(0, 0, 0, .3);
+    border-radius: 0.5rem;
+    box-shadow: 0.8rem 2rem rgba(0, 0, 0, 0.575);
+}
+
+.card-img-top{
+    
+    width: 260px;
+    height:260px;
+}
+.col col-md-4{
+    padding-top: 60px;
+    
+}
